@@ -1,4 +1,4 @@
 # Website-for-SDH-Sobotka
-[Visit <b>MY<b/> Website](https://philipburesh.github.io/Website-for-SDH-Sobotka/)<br>
+[Visit <u><b>MY<b/></u> Website](https://philipburesh.github.io/Website-for-SDH-Sobotka/)<br>
 <br>
- [Visit <li><b>THEIR<b/></li> Website](http://www.sdh-sobotka.wz.cz/index.html)
+[Visit <u><b>THEIR<b/></u> Website](http://www.sdh-sobotka.wz.cz/index.html)
